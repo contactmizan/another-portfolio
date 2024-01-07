@@ -3,6 +3,11 @@
     margin-top: 2px;
 }
 
+h3 {
+    font-family: font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
 .header {
     background-image: url('../images/banner/banner3.png');
     width: 1600px;
@@ -102,4 +107,23 @@
 .smoke {
     display: inline-block;
     text-align: center;
+}
+
+.section {
+    /* width: 1140px; */
+    height: 300px;
+
+}
+
+#section-div {
+    /* margin-left: 10px; */
+    padding-left: 50px;
+    padding-top: 40px;
+}
+
+.main-section {
+    background-image: url('../images/watch.png');
+    margin: auto;
+    width: 1140px;
+    height: 300px;
 }
